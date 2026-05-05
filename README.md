@@ -74,7 +74,7 @@ The airline needs to understand the ROI of its loyalty program and identify whic
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Overview.png)
+![Dashboard](Executive summary.png)
 
 ---
 
